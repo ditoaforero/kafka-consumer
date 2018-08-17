@@ -1,0 +1,15 @@
+{
+  "name": "kafka-consumer",
+  "version": "1.0.0",
+  "description": "Consumidor de Kafka",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Arevalo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "kafka-node": "^2.6.1"
+  }
+}
